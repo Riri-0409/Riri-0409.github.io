@@ -25,10 +25,10 @@ My research interest includes AI security and safety, multi-modal models and emb
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LACMUS: Latent Concept Masking for General Robustness Enhancement of DNNs]([https://ieeexplore.ieee.org/abstract/document/10646871])
+[LACMUS: Latent Concept Masking for General Robustness Enhancement of DNNs]
 
 Shuo Wang, Hongsheng Hu, **Jiamin Chang**, Benjamin Zi Hao Zhao, Minhui Xue
 - **S&P 2024**

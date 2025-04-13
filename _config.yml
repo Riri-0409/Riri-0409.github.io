@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiamin Chang"
-description              : "I am a PhD student at the University of New South Wales, supervised by of Dr. Hammond Pearce and Dr. Jason Xue. My research is supported by the UNSW UIPA Scholarship and CSIRO’s Data61 Top-up Scholarship, focusing on vulnerablities and safety of AI models."
+description              : "I am a PhD student at the University of New South Wales, supervised by of Dr. Hammond Pearce and Dr. Jason Xue."
 
 repository               : "Riri-0409/Riri-0409.github.io"
 google_scholar_stats_use_cdn : true
@@ -28,7 +28,7 @@ author:
   location         : "Sydney Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://https://scholar.google.com/citations?user=SCHOLAR_ID&user=O3skY1PlJqQC"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=O3skY1PlJqQC"
   email            : "jiamin.chang@unsw.edu.au.com"
   researchgate     :
   uri              :

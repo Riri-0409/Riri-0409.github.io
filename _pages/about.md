@@ -28,6 +28,7 @@ My research interest includes AI security and safety, multi-modal models and emb
 - *2024.04*: &nbsp;🎉  Our paper titled "{DNN-GP}: Diagnosing and Mitigating Model's Faults Using Latent Concepts" was accepted by Usenix 2024!
 - *2023.11*: &nbsp;🎉  Our paper titled "A duty to forget, a right to be assured? exposing vulnerabilities in machine unlearning services" was accepted by NDSS 2024!
 - *2023.03*: &nbsp;🎉 Our paper titled "Copyright protection and accountability of generative ai: Attack, watermarking and attribution" was accepted by WWW 2024!
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/LACUMS.png' alt="sym" width="100%" height=" 200px"></div></div>

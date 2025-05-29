@@ -24,12 +24,24 @@ My research interest includes AI security and safety, multi-modal models and emb
 
   
 # 🔥 News
+- *2025.05*: &nbsp;🎉  Our paper titled "What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shif" was accepted by CCS 2025!
 - *2024.04*: &nbsp;🎉  Our paper titled "LACMUS: Latent Concept Masking for General Robustness Enhancement of DNNs" was accepted by S&P 2024!
 - *2024.04*: &nbsp;🎉  Our paper titled "{DNN-GP}: Diagnosing and Mitigating Model's Faults Using Latent Concepts" was accepted by Usenix 2024!
 - *2023.11*: &nbsp;🎉  Our paper titled "A duty to forget, a right to be assured? exposing vulnerabilities in machine unlearning services" was accepted by NDSS 2024!
 - *2023.03*: &nbsp;🎉 Our paper titled "Copyright protection and accountability of generative ai: Attack, watermarking and attribution" was accepted by WWW 2024!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/ConceptLens.png' alt="sym" width="100%" height=" 200px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shift** [**Link**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O3skY1PlJqQC&citation_for_view=O3skY1PlJqQC:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+**Jiamin Chang**, Haoyang Li, Hammond Pearce, Ruoxi Sun, Bo Li, Minhui Xue
+
+- To assess and attribute trustworthiness threats, we propose ConceptLens, a generic framework that leverages pre-trained multimodal models to identify the root causes of integrity threats by analyzing Concept Shift in probing samples. ConceptLens demonstrates strong detection performance for vanilla data poisoning attack and identifies privacy risks in unaltered but high-risk samples, and provides insights into model weaknesses arising from incomplete or imbalanced training data. Additionally, it attributes concepts that the target model is overly dependent on, identifies misleading concepts, and explains how disrupting key concepts negatively impacts the model. Furthermore, it uncovers sociological biases in generative content, revealing disparities across sociological contexts.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2024</div><img src='images/LACUMS.png' alt="sym" width="100%" height=" 200px"></div></div>
 <div class='paper-box-text' markdown="1">

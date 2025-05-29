@@ -108,7 +108,7 @@ Haonan Zhong, **Jiamin Chang** (Co-first Author), Ziyue Yang, Tingmin Wu, Pathum
 # 📖 Educations
 - *2024.05 - NOW*, **UNSW**, Doctor of Philosopy, Computer Science
 - *2023.02 - 2024.03*, **UNSW**, Honors of Engineering, Computer Science and Engineereing.
-  Grade: 90 HD & First Class Honors
+  Grade: 90.75 HD & First Class Honors
 - *2020.06 - 2023.02*, **UNSW**, Bachelor of Engineering, Computer Science.
   Grade: 88.042 HD & 2021/2022/2023 Dean's Honours List (Highly Recommend)
 

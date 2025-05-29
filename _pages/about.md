@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the University of New South Wales, supervised by of Dr. Hammond Pearce and Dr. Jason Xue. My research is supported by the UNSW UIPA Scholarship and CSIRO’s Data61 Top-up Scholarship, focusing on vulnerablities of AI models.
 
-My research interest includes AI security and safety, multi-modal models and embodied robotics. I have published several papers at the top international AI and security conferences (e.g. S&P, Usenix, NDSS, WWW) with total <a href='https://scholar.google.com/citations?user=O3skY1PlJqQC'>google scholar citations <strong><span id='total_cit'>80+</span></strong></a>.
+My research interest includes AI security and safety, multi-modal models and embodied robotics. I have published several papers at the top international AI and security conferences (e.g. S&P, Usenix, NDSS, WWW) with total <a href='https://scholar.google.com/citations?user=O3skY1PlJqQC'>google scholar citations <strong><span id='total_cit'>90+</span></strong></a>.
 
 
   

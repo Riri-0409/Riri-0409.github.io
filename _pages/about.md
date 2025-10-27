@@ -19,12 +19,15 @@ redirect_from:
 
 I am a PhD student at the University of New South Wales, supervised by of Dr. Hammond Pearce and Dr. Jason Xue. My research is supported by the UNSW UIPA Scholarship and CSIRO’s Data61 Top-up Scholarship, focusing on vulnerablities of AI models.
 
-My research interest includes AI security and safety, multi-modal models and embodied robotics. I have published several papers at the top international AI and security conferences (e.g. S&P, Usenix, NDSS, WWW) with total <a href='https://scholar.google.com/citations?user=O3skY1PlJqQC'>google scholar citations <strong><span id='total_cit'>90+</span></strong></a>.
+My research interest includes AI security and safety, multi-modal models and embodied robotics. I have published several papers at the top international AI and security conferences (e.g. S&P, Usenix, NDSS, WWW) with total <a href='https://scholar.google.com/citations?user=O3skY1PlJqQC'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>.
 
 
   
 # 🔥 News
-- *2025.05*: &nbsp;🎉  Our paper titled "What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shif" was accepted by CCS 2025!
+- *2025.10*: &nbsp;🎉  Awarded the <a href='https://research.google/programs-and-events/phd-fellowship/recipients/'>Google PhD Fellowship</a>!
+- *2025.10*: &nbsp;🎉  Our poster for "What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shift" received RAID 2025 (core A) best poster award.
+- *2025.08*: &nbsp;🎉  Awarded the CCS conference grant.
+- *2025.05*: &nbsp;🎉  Our paper titled "What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shift" was accepted by CCS 2025!
 - *2024.04*: &nbsp;🎉  Our paper titled "LACMUS: Latent Concept Masking for General Robustness Enhancement of DNNs" was accepted by S&P 2024!
 - *2024.04*: &nbsp;🎉  Our paper titled "{DNN-GP}: Diagnosing and Mitigating Model's Faults Using Latent Concepts" was accepted by Usenix 2024!
 - *2023.11*: &nbsp;🎉  Our paper titled "A duty to forget, a right to be assured? exposing vulnerabilities in machine unlearning services" was accepted by NDSS 2024!
@@ -100,6 +103,9 @@ Haonan Zhong, **Jiamin Chang** (Co-first Author), Ziyue Yang, Tingmin Wu, Pathum
 </div>
 
 # 🎖 Honors and Awards
+- *2025.10* Google PHD Fellowship
+- *2025.10* RAID 2025 Best Poster Award
+- *2025.08* CCS Student Conference Grant
 - *2024.04* Csiro Data61 PHD Top-up Scholarship
 - *2023.03* Csiro Data61 CSCRC Honors Scholarship 
 - *2021.09* Faculty of Engineering Taste of Research Scholarship

@@ -106,8 +106,8 @@ Haonan Zhong, **Jiamin Chang** (Co-first Author), Ziyue Yang, Tingmin Wu, Pathum
 - *2025.10* Google PHD Fellowship
 - *2025.10* RAID 2025 Best Poster Award
 - *2025.08* CCS Student Conference Grant
-- *2024.04* Csiro Data61 PHD Top-up Scholarship
-- *2023.03* Csiro Data61 CSCRC Honors Scholarship 
+- *2024.04* Csiro PHD Top-up Scholarship
+- *2023.03* Csiro CSCRC Honors Scholarship 
 - *2021.09* Faculty of Engineering Taste of Research Scholarship
 - *2020.06* UNSW Global Academic Award
   

@@ -24,6 +24,8 @@ My research interest includes AI security and safety, multi-modal models and emb
 
   
 # 🔥 News
+- *2025.8*: &nbsp;🎉 I I will serve as a PC member for USENIX Security’27.
+- *2025.6*: &nbsp;🎉  I started a 3 month internship at MSRC
 - *2025.10*: &nbsp;🎉  Awarded the <a href='https://research.google/programs-and-events/phd-fellowship/recipients/'>Google PhD Fellowship</a>!
 - *2025.10*: &nbsp;🎉  Our poster for "What's Pulling the Strings? Evaluating Integrity and Attribution in AI Training and Inference through Concept Shift" received RAID 2025 (core A) best poster award.
 - *2025.08*: &nbsp;🎉  Awarded the CCS conference grant.
